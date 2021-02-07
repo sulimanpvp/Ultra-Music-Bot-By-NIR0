@@ -4,11 +4,11 @@
 
 ## 🎏 Tutorials
 
-Youtube: [YouTube Tutorial](https://youtu.be/DnJ5Rgstjog)
+**Youtube: [YouTube Tutorial](https://youtu.be/DnJ5Rgstjog)**
 
 ## 💨 Run the projects
 
-Replit: [Run on Repl.it](https://repl.it/@NIR0/Ultra-Music-Bot-By-NIR0#README.md)
+**Replit: [Run on Repl.it](https://repl.it/@NIR0/Ultra-Music-Bot-By-NIR0#README.md)**
 
 ### ⚡ Installation
 
