@@ -16,18 +16,23 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "engines": {
     "node": "12.x"
   },
   "repository": {
     "type": "git",
-    "url": "https://repl.it/@NIR0/Music-Bot-By-NiRO"
+    "url": "https://github.com/NIR0-V/Ultra-Music-Bot-By-NIR0.git"
+  },
+  "info": {
+    "wiki": "https://github.com/NIR0-V/Ultra-Music-Bot-By-NIR0/wiki/Ultra-Music-Bot-%E2%9C%A8",
+    "issues": "https://github.com/NIR0-V/Ultra-Music-Bot-By-NIR0/issues/1"
   },
   "debug": {
-    "url": "https://repl.it/@NIR0/Music-Bot-By-NiRO",
-    "packages": "https://repl.it/@NIR0/Music-Bot-By-NiRO"
+    "url": "https://github.com/NIR0-V/Ultra-Music-Bot-By-NIR0.git",
+    "packages": "https://github.com/NIR0-V/Ultra-Music-Bot-By-NIR0.git"
   },
   "keywords": [
     "NIRO",
@@ -39,5 +44,5 @@
     "ニロ",
     "NIRO"
   ],
-  "license": "ISC"
+  "license": "MIT"
 }
