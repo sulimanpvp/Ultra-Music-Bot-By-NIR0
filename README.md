@@ -1,21 +1,51 @@
-# Music-bot by niro
+<h1 align="center">Ultra Music Bot</h1>
 
-All Copyright Go's To @ニロ#٣٨٩٢ 
+**ニロ Meen Niro 🙃**
+
+## 🎏 Tutorials
+
+Youtube: [YouTube Tutorial](https://youtu.be/DnJ5Rgstjog)
+
+## 💨 Run the projects
+
+Replit: [Run on Repl.it](https://repl.it/@NIR0/Ultra-Music-Bot-By-NIR0#README.md)
 
 ### ⚡ Installation
 
-go to `config` folder and edit bot.json file
+go to `Bot_Config` folder and edit `config.json` file
 
 ```js
 {
-    "game": "GAME",//your bot status
-    "prefix": "PREFIX",//your boy prerix 
-    "token_bot": "TOKEN"//your bot token
+    "channel": "The Channel Id The Bot Will Stay In 24/7",
+    "prefix": "The Bot Prefix",
+    "token_bot": "The Bot Token"
 }
 ```
 
-### 🛠️ Support
+then you edit the `config.json` file install the packges with this command
 
-You Can Find Me In [Mifed Codes](https://discord.gg/U2aSYFksYN)
+```
+npm install --save @discordjs/opus discord-player discord.js express ffmpeg-static ffmpeg
+```
 
-You Can Call Me In Discord : @ニロ#٣٨٩٢ 
+then run the project with this command
+
+```
+node index.js
+```
+
+or
+
+```
+npm start
+```
+
+## ✨ Mad By
+
+```@ニロ#3892```
+
+## 🌀 Support
+
+[Naar Server](https://discord.gg/V4uUGjCEmh)
+
+[NCR Codes](https://discord.gg/Q3yZfkWj3q)
