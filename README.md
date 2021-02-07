@@ -1,6 +1,6 @@
 <h1 align="center">Ultra Music Bot</h1>
 
-**ニロ Meen Niro 🙃**
+<h3 align="center">ニロ Meen Niro 🙃</h3>
 
 ## 🎏 Tutorials
 
