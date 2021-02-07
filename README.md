@@ -12,7 +12,7 @@
 
 ### ⚡ Installation
 
-go to `Bot_Config` folder and edit `config.json` file
+go to `Config` folder and edit `bot.json` file
 
 ```js
 {
@@ -22,7 +22,7 @@ go to `Bot_Config` folder and edit `config.json` file
 }
 ```
 
-then you edit the `config.json` file install the packges with this command
+then you edit the `bot.json` file install the packges with this command
 
 ```
 npm install --save @discordjs/opus discord-player discord.js express ffmpeg-static ffmpeg
